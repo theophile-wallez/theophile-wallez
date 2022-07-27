@@ -9,10 +9,10 @@
 
 ## 🛠 Tech stack
 - 💻   Java Spring | Express | Node.js
-- 🌐   Angular | TypeScript | HTML | SCSS 
+- ⚡️   Angular | TypeScript | HTML | SCSS 
 - 🛢   Firebase | SQL
 - 🔧   VScode | IntelliJ
-- 🖥   Git | SVN
+- 📂   Git | SVN
 
 ## 🤝🏻 Connect with Me
 
