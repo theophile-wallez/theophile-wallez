@@ -17,9 +17,7 @@
 
 ## 🤝🏻 Connect with Me
 
-- ### <a href="https://theophilewallez.com">🔥 Portfolio<a/>
-
-- ###  <a href="https://www.linkedin.com/in/theophile-wallez/"><img src="/assets/linkedin.svg" width="20" height="20">  LinkedIn<a/>
-
-- ###  <a href="https://stackoverflow.com/users/15813444/th%c3%a9ophile-wallez"><img src="/assets/stack-overflow.svg" width="20" height="20"> Stack Overflow<a/>
+### <a href="https://theophilewallez.com">🔥 Portfolio<a/>
+###  <a href="https://www.linkedin.com/in/theophile-wallez/"><img src="/assets/linkedin.svg" width="20" height="20"> LinkedIn<a/>
+###  <a href="https://stackoverflow.com/users/15813444/th%c3%a9ophile-wallez"><img src="/assets/stack-overflow.svg" width="20" height="20"> Stack Overflow<a/>
 
