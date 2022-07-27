@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 💻 My name is Théophile Wallez, more about me:
+
 <!--
 **theophile-wallez/theophile-wallez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
