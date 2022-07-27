@@ -1,5 +1,5 @@
 ####
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+My+name+is+Théophile+Wallez&duration=8000&width=600&size=25&color=fff&font=Poppins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+My+name+is+Théophile+Wallez&duration=8000&width=600&size=25&font=Poppins)](https://git.io/typing-svg)
 
 
 ## 🤔 About me
