@@ -1,5 +1,5 @@
 ####
-# Hi 👋 I'm Théophile Wallez
+# I'm Théophile Wallez
 
 ## About me
 - 🎓 I’m a student at ISEP, a digital engineering school
