@@ -11,7 +11,7 @@
 
 - <img src="/assets/nodejs.svg" width="15" height="15">   Java Spring | Express | Node.js
 - <img src="/assets/angular.svg" width="15" height="15">  Angular | TypeScript | HTML | SCSS
-- <img src="/assets/firebase.svg" width="15" height="15">   Firebase | SQL
+- <img src="/assets/firebase.svg" width="15" height="15">   Firebase | MongoDB | SQL
 - <img src="/assets/vscode.svg" width="15" height="15">   VScode | IntelliJ
 - <img src="/assets/git.svg" width="15" height="15">   Git | SVN
 
