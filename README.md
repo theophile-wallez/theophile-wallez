@@ -4,7 +4,7 @@
 ## About me
 - 🎓 I’m a student at ISEP, a digital engineering school
 - ⚡️ I’m passionate about web and software development
-- 🤔 I like building fullstack applications
+- ⚛️ I like building fullstack web applications
 - 🔭 I enjoy learning new technologies
 
 ## Tech stack
